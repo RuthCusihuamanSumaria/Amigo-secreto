@@ -17,7 +17,6 @@ En este proyecto hacemos uso de los arrays, elementos HTML y eventos en el naveg
 
 2. **Atualizar a lista de amigos:**
    - Siempre que el nombre de un amigo sea adicionado, aparecera en una lista atualizada automaticamente.
-   - la lista no permite nombres duplicados .
 
 3. **Sortear el nombre de un amigo:**
    - Un boton "Sortear" seleciona aleatoriamente un nombre de la lista de amigos.
